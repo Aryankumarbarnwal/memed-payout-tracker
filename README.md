@@ -2,7 +2,7 @@
 
 Brands create campaigns with a milestone payout ladder. Creators submit posts and earn the payout of the highest milestone their post has crossed, always within the campaign budget.
 
-- **Live app:** <https://memed-payout-tracker-uw26.vercel.app/login>
+- **Live app:** <https://memed-payout-tracker-cljz.vercel.app/login>
 - **Live API:** <https://memed-payout-tracker-5.onrender.com/>/health
 - **Note:** the backend runs on Render's free tier and sleeps when idle. The first request can take 30-60 seconds.
 
